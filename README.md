@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **anushkagurav532@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently working on:** AI-powered applications, automation workflows, and Web app development.
 - 🌱 **I’m currently learning:**  Data Structures & Algorithms, backend development, and AI integration.
-- 👯 **I’m looking to collaborate on:** Open-source projects related to software development, AI applications, and Web development.<
+- 👯 **I’m looking to collaborate on:** Open-source projects related to software development, AI applications, and Web development.
 - 🤔 **I’m looking for help with:** Improving system design skills and building production-ready AI solutions.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** anushkagurav532@gmail.com
